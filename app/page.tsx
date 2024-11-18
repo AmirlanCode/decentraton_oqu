@@ -125,11 +125,6 @@ const Home = () => {
       START LEARNING
       </button>
         </Link>
-        {/* <Link href="/taptwoearn">
-          <button onClick={handleNavigateToClickerPage} className="bg-blue-500  text-white font-bold py-3 px-8 mt-5 w-full rounded-2xl shadow-lg transform active:translate-y-1 transition-transform duration-200">
-            TAP2EARN
-          </button>
-        </Link> */}
         <Link href="/quiz_page">
           <button onClick={handleNavigateToMultiPage} className="bg-blue-500   text-white font-bold py-3 px-8 mt-5 w-full rounded-2xl shadow-lg transform active:translate-y-1 transition-transform duration-200">
             MULTIQUIZ
