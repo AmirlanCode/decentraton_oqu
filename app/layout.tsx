@@ -4,7 +4,6 @@ import "./globals.css";
 import { ReactNode } from 'react';  
 import Script from "next/script";
 import BottomNavBar from "../components/BottomNavBar";
-import TopNavBar from "../components/TopBar";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
