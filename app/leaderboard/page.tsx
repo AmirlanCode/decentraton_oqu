@@ -12,7 +12,7 @@ const Leaderboard = () => {
               <div className="text-center mb-8">
                 <div className="text-6xl">🏆</div>
                 <h1 className="text-3xl font-bold mt-4">Leaderboard</h1>
-                <p className="text-white mt-2">Live as if you were to die tomorrow. Learn as if you were to live forever.<br />That's great!</p>
+                <p className="text-white mt-2">Live as if you were to die tomorrow. Learn as if you were to live forever.<br />Oh great!</p>
               </div>
               <button className="bg-white text-black w-full max-w-md py-3 rounded-lg font-bold mb-8">
                 Your turn to become smartest ONE 🧠
