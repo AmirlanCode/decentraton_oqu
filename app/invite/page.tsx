@@ -22,7 +22,7 @@ const Services = () => {
             <p className="font-semibold text-black">🚀 Invite a friend</p>
           </div>
           <p className="ml-4 text-gray-600">
-            You will both get <span className="font-bold">10000XP
+            You will both get <span className="font-bold">1000XP
                 </span> 
         
           </p>
@@ -33,7 +33,7 @@ const Services = () => {
             <p className="font-semibold text-black">🚀 Invite a friend with a Telegram Premium account</p>
           </div>
           <p className="ml-4 text-gray-600">
-            You will both get <span className="font-bold">20000 XP</span>
+            You will both get <span className="font-bold">2000 XP</span>
           </p>
         </div>
       </div>

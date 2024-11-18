@@ -1,4 +1,3 @@
-import { WalletIcon } from "@heroicons/react/16/solid";
 import { CgProfile } from "react-icons/cg";
 
 
@@ -31,11 +30,10 @@ const Profile = () => {
       ];
     
       return (
-        <div className="min-h-screen bg-white flex flex-col items-center p-6">
+        <div className="min-h-screen bg-blue-600 flex flex-col items-center p-6">
           <div className="w-full max-w-lg space-y-4">
           <div className="flex items-center space-x-4">
         <div className="flex items-center space-x-2 bg-black text-white px-4 py-2 rounded-2xl">
-          
           <CgProfile/>
           <div className="flex flex-col">
             <span className="font-semibold truncate">amirlancode</span>
@@ -49,8 +47,7 @@ const Profile = () => {
             </div>
           </div>
         </div>
-
-        <button className="bg-black text-white font-bold py-3 px-6 rounded-xl hover:bg-gray-800 transition duration-300 focus:outline-none shadow-lg">
+        <button className="bg-black text-white font-bold py-3 px-4 rounded-xl hover:bg-gray-800 transition duration-300 focus:outline-none shadow-lg">
         Connect Wallet
       </button>
       </div>
